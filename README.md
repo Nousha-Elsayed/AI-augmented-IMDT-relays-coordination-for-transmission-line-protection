@@ -32,7 +32,7 @@ Coordinated overcurrent protection for an 11 kV radial feeder with an embedded R
 ---
 
 ## Time Coordination Curves
-<img width="1213" height="798" alt="image" src="https://github.com/user-attachments/assets/f0b70a58-0f5e-4b98-846c-2a14611e5a83" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f0b70a58-0f5e-4b98-846c-2a14611e5a83" />
 
 
 ---
